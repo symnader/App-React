@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'Vazir-FD';
+  src: url('./fonts/Vazir-FD.woff');
+}
+
+@font-face {
+  font-family: 'Shekasteh';
+  src: url('./fonts/Shekasteh.ttf');
+}
+
+.nastaligh-fnt {
+  font-family: 'Shekasteh' !important;
+  font-size: 1.2em;
+}
+
+body {
+  font-family: 'Vazir-FD';
+  font-size: 1em;
+}
